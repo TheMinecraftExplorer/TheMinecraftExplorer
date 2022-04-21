@@ -1,11 +1,10 @@
 ## Hey, I'm Tim! 👋 Hope you're having an amazing day!
 
-#### ⮞ Fullstack Developer & Gamer
-#### ⮞ Projects: Fusion Nodes & Kekw Bot
+#### ⮞ Python Developer & Gamer
+#### ⮞ Projects: [Fusion Nodes](https://fusionnodes.com) & [Kekw Bot](https://discord.com/api/oauth2/authorize?client_id=872686610444062760&permissions=8&scope=bot)
+#### ⮞ Website: [tmedev.org](https://tmedev.org)
+#### ⮞ Email: [contact@tmedev.org](mailto:contact@tmedev.org)<br>
 #### ⮞ Knowledge is Power
-
-##### Website: <a href="https://tmedev.org/" target="_blank">tmedev.org</a>
-##### Email: [contact@TmeDev.org](mailto:contact@tmedev.org)
 
 ### Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheMinecraftExplorer&count_private=true&show_icons=true&hide=issues&theme=tokyonight&hide_border=true&locale=en)
