@@ -4,7 +4,7 @@
 #### ⮞ Projects: Fusion Nodes & Kekw Bot
 #### ⮞ Knowledge is Power
 
-##### Website: [tmedev.org](https://tmedev.org)
+##### Website: <a href="https://tmedev.org/" target="_blank">tmedev.org</a>
 ##### Email: [contact@TmeDev.org](mailto:contact@tmedev.org)
 
 ### Stats:
